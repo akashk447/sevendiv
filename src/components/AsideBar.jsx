@@ -4,7 +4,7 @@ const AsideBar = () => {
     return (
         <div>
             <aside className="main-sidebar sidebar-dark-primary elevation-4">
-                <a href="index3.html" className="brand-link">
+                <a href="index3" className="brand-link">
                     <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{ opacity: '.8' }} />
                     <span className="brand-text font-weight-light">AdminLTE 3</span>
                 </a>
@@ -39,19 +39,19 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="index.html" className="nav-link active">
+                                        <a href="index" className="nav-link active">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Dashboard v1</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="index2.html" className="nav-link">
+                                        <a href="index2" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Dashboard v2</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="index3.html" className="nav-link">
+                                        <a href="index3" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Dashboard v3</p>
                                         </a>
@@ -59,7 +59,7 @@ const AsideBar = () => {
                                 </ul>
                             </li>
                             <li className="nav-item">
-                                <a href="pages/widgets.html" className="nav-link">
+                                <a href="pages/widgets" className="nav-link">
                                     <i className="nav-icon fas fa-th" />
                                     <p>
                                         Widgets
@@ -78,49 +78,49 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/layout/top-nav.html" className="nav-link">
+                                        <a href="pages/layout/top-nav" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Top Navigation</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/top-nav-sidebar.html" className="nav-link">
+                                        <a href="pages/layout/top-nav-sidebar" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Top Navigation + Sidebar</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/boxed.html" className="nav-link">
+                                        <a href="pages/layout/boxed" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Boxed</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/fixed-sidebar.html" className="nav-link">
+                                        <a href="pages/layout/fixed-sidebar" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Fixed Sidebar</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/fixed-sidebar-custom.html" className="nav-link">
+                                        <a href="pages/layout/fixed-sidebar-custom" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Fixed Sidebar <small>+ Custom Area</small></p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/fixed-topnav.html" className="nav-link">
+                                        <a href="pages/layout/fixed-topnav" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Fixed Navbar</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/fixed-footer.html" className="nav-link">
+                                        <a href="pages/layout/fixed-footer" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Fixed Footer</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/layout/collapsed-sidebar.html" className="nav-link">
+                                        <a href="pages/layout/collapsed-sidebar" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Collapsed Sidebar</p>
                                         </a>
@@ -137,25 +137,25 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/charts/chartjs.html" className="nav-link">
+                                        <a href="pages/charts/chartjs" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>ChartJS</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/charts/flot.html" className="nav-link">
+                                        <a href="pages/charts/flot" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Flot</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/charts/inline.html" className="nav-link">
+                                        <a href="pages/charts/inline" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Inline</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/charts/uplot.html" className="nav-link">
+                                        <a href="pages/charts/uplot" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>uPlot</p>
                                         </a>
@@ -172,49 +172,49 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/UI/general.html" className="nav-link">
+                                        <a href="pages/UI/general" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>General</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/icons.html" className="nav-link">
+                                        <a href="pages/UI/icons" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Icons</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/buttons.html" className="nav-link">
+                                        <a href="pages/UI/buttons" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Buttons</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/sliders.html" className="nav-link">
+                                        <a href="pages/UI/sliders" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Sliders</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/modals.html" className="nav-link">
+                                        <a href="pages/UI/modals" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Modals &amp; Alerts</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/navbar.html" className="nav-link">
+                                        <a href="pages/UI/navbar" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Navbar &amp; Tabs</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/timeline.html" className="nav-link">
+                                        <a href="pages/UI/timeline" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Timeline</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/UI/ribbons.html" className="nav-link">
+                                        <a href="pages/UI/ribbons" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Ribbons</p>
                                         </a>
@@ -231,25 +231,25 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/forms/general.html" className="nav-link">
+                                        <a href="pages/forms/general" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>General Elements</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/forms/advanced.html" className="nav-link">
+                                        <a href="pages/forms/advanced" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Advanced Elements</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/forms/editors.html" className="nav-link">
+                                        <a href="pages/forms/editors" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Editors</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/forms/validation.html" className="nav-link">
+                                        <a href="pages/forms/validation" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Validation</p>
                                         </a>
@@ -266,19 +266,19 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/tables/simple.html" className="nav-link">
+                                        <a href="pages/tables/simple" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Simple Tables</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/tables/data.html" className="nav-link">
+                                        <a href="pages/tables/data" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>DataTables</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/tables/jsgrid.html" className="nav-link">
+                                        <a href="pages/tables/jsgrid" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>jsGrid</p>
                                         </a>
@@ -287,7 +287,7 @@ const AsideBar = () => {
                             </li>
                             <li className="nav-header">EXAMPLES</li>
                             <li className="nav-item">
-                                <a href="pages/calendar.html" className="nav-link">
+                                <a href="pages/calendar" className="nav-link">
                                     <i className="nav-icon far fa-calendar-alt" />
                                     <p>
                                         Calendar
@@ -296,7 +296,7 @@ const AsideBar = () => {
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a href="pages/gallery.html" className="nav-link">
+                                <a href="pages/gallery" className="nav-link">
                                     <i className="nav-icon far fa-image" />
                                     <p>
                                         Gallery
@@ -304,7 +304,7 @@ const AsideBar = () => {
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a href="pages/kanban.html" className="nav-link">
+                                <a href="pages/kanban" className="nav-link">
                                     <i className="nav-icon fas fa-columns" />
                                     <p>
                                         Kanban Board
@@ -321,19 +321,19 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/mailbox/mailbox.html" className="nav-link">
+                                        <a href="pages/mailbox/mailbox" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Inbox</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/mailbox/compose.html" className="nav-link">
+                                        <a href="pages/mailbox/compose" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Compose</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/mailbox/read-mail.html" className="nav-link">
+                                        <a href="pages/mailbox/read-mail" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Read</p>
                                         </a>
@@ -350,61 +350,61 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/examples/invoice.html" className="nav-link">
+                                        <a href="pages/examples/invoice" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Invoice</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/profile.html" className="nav-link">
+                                        <a href="pages/examples/profile" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Profile</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/e-commerce.html" className="nav-link">
+                                        <a href="pages/examples/e-commerce" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>E-commerce</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/projects.html" className="nav-link">
+                                        <a href="pages/examples/projects" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Projects</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/project-add.html" className="nav-link">
+                                        <a href="pages/examples/project-add" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Project Add</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/project-edit.html" className="nav-link">
+                                        <a href="pages/examples/project-edit" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Project Edit</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/project-detail.html" className="nav-link">
+                                        <a href="pages/examples/project-detail" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Project Detail</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/contacts.html" className="nav-link">
+                                        <a href="pages/examples/contacts" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Contacts</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/faq.html" className="nav-link">
+                                        <a href="pages/examples/faq" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>FAQ</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/contact-us.html" className="nav-link">
+                                        <a href="pages/examples/contact-us" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Contact us</p>
                                         </a>
@@ -430,25 +430,25 @@ const AsideBar = () => {
                                         </a>
                                         <ul className="nav nav-treeview">
                                             <li className="nav-item">
-                                                <a href="pages/examples/login.html" className="nav-link">
+                                                <a href="pages/examples/login" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Login v1</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/register.html" className="nav-link">
+                                                <a href="pages/examples/register" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Register v1</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/forgot-password.html" className="nav-link">
+                                                <a href="pages/examples/forgot-password" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Forgot Password v1</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/recover-password.html" className="nav-link">
+                                                <a href="pages/examples/recover-password" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Recover Password v1</p>
                                                 </a>
@@ -465,25 +465,25 @@ const AsideBar = () => {
                                         </a>
                                         <ul className="nav nav-treeview">
                                             <li className="nav-item">
-                                                <a href="pages/examples/login-v2.html" className="nav-link">
+                                                <a href="pages/examples/login-v2" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Login v2</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/register-v2.html" className="nav-link">
+                                                <a href="pages/examples/register-v2" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Register v2</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/forgot-password-v2.html" className="nav-link">
+                                                <a href="pages/examples/forgot-password-v2" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Forgot Password v2</p>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a href="pages/examples/recover-password-v2.html" className="nav-link">
+                                                <a href="pages/examples/recover-password-v2" className="nav-link">
                                                     <i className="far fa-circle nav-icon" />
                                                     <p>Recover Password v2</p>
                                                 </a>
@@ -491,49 +491,49 @@ const AsideBar = () => {
                                         </ul>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/lockscreen.html" className="nav-link">
+                                        <a href="pages/examples/lockscreen" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Lockscreen</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/legacy-user-menu.html" className="nav-link">
+                                        <a href="pages/examples/legacy-user-menu" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Legacy User Menu</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/language-menu.html" className="nav-link">
+                                        <a href="pages/examples/language-menu" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Language Menu</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/404.html" className="nav-link">
+                                        <a href="pages/examples/404" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Error 404</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/500.html" className="nav-link">
+                                        <a href="pages/examples/500" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Error 500</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/pace.html" className="nav-link">
+                                        <a href="pages/examples/pace" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Pace</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/examples/blank.html" className="nav-link">
+                                        <a href="pages/examples/blank" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Blank Page</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="starter.html" className="nav-link">
+                                        <a href="starter" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Starter Page</p>
                                         </a>
@@ -550,13 +550,13 @@ const AsideBar = () => {
                                 </a>
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="pages/search/simple.html" className="nav-link">
+                                        <a href="pages/search/simple" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Simple Search</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="pages/search/enhanced.html" className="nav-link">
+                                        <a href="pages/search/enhanced" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>Enhanced</p>
                                         </a>
@@ -565,7 +565,7 @@ const AsideBar = () => {
                             </li>
                             <li className="nav-header">MISCELLANEOUS</li>
                             <li className="nav-item">
-                                <a href="iframe.html" className="nav-link">
+                                <a href="iframe" className="nav-link">
                                     <i className="nav-icon fas fa-ellipsis-h" />
                                     <p>Tabbed IFrame Plugin</p>
                                 </a>
